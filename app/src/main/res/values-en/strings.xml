@@ -17,4 +17,5 @@
     <string name="tipoTituCalzado">Type Footwear</string>
     <string name="titulo">Zapatería</string>
     <string name="totalcompra">Total purchase</string>
+    <string name="error_campo_cero">Field can not by cero</string>
 </resources>

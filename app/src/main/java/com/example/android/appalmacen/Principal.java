@@ -135,6 +135,10 @@ public class Principal extends AppCompatActivity {
             txtCantidad.requestFocus();
             txtCantidad.setError(this.getResources().getString(R.string.error_campo));
             return false;
+        }if(Integer.parseInt(txtCantidad.getText().toString())==0){
+            txtCantidad.requestFocus();
+            txtCantidad.setError(this.getResources().getString(R.string.error_campo_cero));
+            return false;
         }
 
         return true;
