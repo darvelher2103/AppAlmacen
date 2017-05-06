@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">AppAlmacen</string>
+    <string name="titulo">Almacen de Calzado</string>
+
+    <string name="tipoTituCalzado">Tipo Calzado</string>
+    <string name="precio">Precio</string>
+    <string name="totalcompra">Total Compra</string>
+    <string name="calcular">Calcular</string>
+    <string name="borrar">Borrar</string>
+    <string name="masculino">Masculino</string>
+    <string name="femenino">Femenino</string>
+    <string name="tipoSexo">Tipo Sexo</string>
+    <string name="nike">Nike</string>
+    <string name="adidas">Adidas</string>
+    <string name="puma">Puma</string>
+    <string name="tipoMarca">Tipo Marca</string>
+    <string name="calzadoClasico">Clasica</string>
+    <string name="calzadoZapatilla">Zapatilla</string>
+    <string name="error_campo">El campo no puede estar vacio</string>
+
+
+    <string-array name="opcionesSexo">
+        <item>@string/masculino</item>
+        <item>@string/femenino</item>
+    </string-array>
+
+    <string-array name="opcionesCalzado">
+        <item>@string/calzadoZapatilla</item>
+        <item>@string/calzadoClasico</item>
+    </string-array>
+
+    <string-array name="opcionesMarca">
+        <item>@string/nike</item>
+        <item>@string/adidas</item>
+        <item>@string/puma</item>
+    </string-array>
+
+</resources>

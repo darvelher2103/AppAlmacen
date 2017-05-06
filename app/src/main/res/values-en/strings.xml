@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AppAlmacen</string>
+    <string name="borrar">Clear</string>
+    <string name="adidas">Adidas</string>
+    <string name="error_campo">Field can not be empty</string>
+    <string name="calcular">Calculate</string>
+    <string name="calzadoClasico">Classic</string>
+    <string name="calzadoZapatilla">Shoe</string>
+    <string name="femenino">Female</string>
+    <string name="masculino">Male</string>
+    <string name="nike">Nike</string>
+    <string name="precio">Price</string>
+    <string name="puma">Puma</string>
+    <string name="tipoMarca">Type Brand</string>
+    <string name="tipoSexo">Type Sex</string>
+    <string name="tipoTituCalzado">Type Footwear</string>
+    <string name="titulo">Zapatería</string>
+    <string name="totalcompra">Total purchase</string>
+</resources>
