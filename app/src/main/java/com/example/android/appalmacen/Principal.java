@@ -124,9 +124,9 @@ public class Principal extends AppCompatActivity {
             }
 
 
-            txtTotalCompra.setText(" " + res);
+            txtTotalCompra.setText(" Total Compra: " + res);
 
-            txtUnitario.setText(" "+ res/cantidad);
+            txtUnitario.setText(" El valor unitario es: "+ res/cantidad);
         }
     }
 

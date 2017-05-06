@@ -18,6 +18,7 @@
     <string name="calzadoZapatilla">Zapatilla</string>
     <string name="error_campo">El campo no puede estar vacio</string>
     <string name="error_campo_cero">El campo no puede ser cero</string>
+    <string name="resultado">Total Compra</string>
 
 
     <string-array name="opcionesSexo">
